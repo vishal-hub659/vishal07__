@@ -15,4 +15,4 @@ I love exploring new technologies, building projects, and collaborating with oth
 🎮 Gaming | 📚 Reading | ✈ Exploring tech communities
 
 ## 📊 GitHub Stats (Optional):
-![vishal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal07__&show_icons=true)
+![vishal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal07&show_icons=true)
